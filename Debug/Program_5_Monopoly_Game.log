@@ -1,0 +1,17 @@
+﻿  Bank_Player.cpp
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Bank_Player.cpp(18,6): warning C4101: 'double_rent': unreferenced local variable
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Bank_Player.cpp(164,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Bank_Player.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+  GameBoard.cpp
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Bank_Player.cpp(210,20): warning C4018: '<': signed/unsigned mismatch
+  Program_5_Monopoly_Game.cpp
+c1xx : fatal error C1083: Cannot open source file: 'GameBoard.cpp': No such file or directory
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Program_5_Monopoly_Game.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Program_5_Monopoly_Game.cpp(170,24): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Program_5_Monopoly_Game.cpp(223,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Program_5_Monopoly_Game.cpp(128): warning C4715: 'menu': not all control paths return a value
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Bank_Player.cpp(67): warning C4715: 'Properties::get_rent': not all control paths return a value
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Bank_Player.cpp(183): warning C4715: 'Player::get_house_cost': not all control paths return a value
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Bank_Player.cpp(194): warning C4715: 'Player::has_deed': not all control paths return a value
+C:\Users\Christina\Source\Repos\Program5_Monopoly_Game\Bank_Player.cpp(273): warning C4715: 'Player::color_group_check': not all control paths return a value
